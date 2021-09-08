@@ -29,9 +29,17 @@
   </a>
 </p>
 
-### 👉 Frameworks
+### 👉 Frameworks and Library
 
 <p align="left"> 
+  &emsp;
+   <a href="https://github.com/LonamiWebs/Telethon/" target="_blank">
+    <img alt="telethon" src="https://img.shields.io/badge/-telethon-blue">
+  </a>
+  &emsp;
+   <a href="https://github.com/python-telegram-bot/python-telegram-bot/" target="_blank">
+    <img alt="python-telegram-bot" src="https://img.shields.io/badge/-python--telegram--bot-yellow">
+  </a>
   &emsp;
    <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django-1E4B33.svg?logo=django&logoColor=white">
@@ -46,11 +54,11 @@
  
 <p>
   &emsp;
-    <a href="https://colab.research.google.com/"><img alt="Colab" src="https://img.shields.io/badge/Colab-F69D30.svg?logo=google-colab&logoColor=white"></a>
+    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-D6472A?style=flat&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-E94E31.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-D6472A?style=flat&logo=ubuntu&logoColor=white"></a>
+    <a href="https://colab.research.google.com/"><img alt="Colab" src="https://img.shields.io/badge/Colab-F69D30.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
     <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-1474B4.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -85,15 +93,16 @@
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-    <a href="mailto:hidayathamir@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="mailto:hidayathamir@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Hidayathamir/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hidayathamir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://t.me/HidayatHamir"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+  <a href="https://www.instagram.com/hidayathamir/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/hidayathamir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://web.facebook.com/hidayathamir20/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/hidayathamir/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-    <a href="https://twitter.com/hidayathamir"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://twitter.com/hidayathamir"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
 <hr/>
 
 * [Hidayat Hamir](https://github.com/Hidayathamir)
-* Last Edited on: August/03/2021
+* Last Edited on: September/08/2021
