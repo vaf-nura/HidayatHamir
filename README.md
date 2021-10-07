@@ -48,6 +48,8 @@
   &emsp;
     <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-D6472A?style=flat&logo=ubuntu&logoColor=white"></a>
   &emsp;
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+  &emsp;
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-E94E31.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="https://colab.research.google.com/"><img alt="Colab" src="https://img.shields.io/badge/Colab-F69D30.svg?logo=google-colab&logoColor=white"></a>
