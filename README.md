@@ -23,10 +23,6 @@
    <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-1E415E.svg?logo=python&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://dart.dev/" target="_blank">
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-1C2834.svg?logo=dart&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Frameworks and Library
@@ -43,10 +39,6 @@
   &emsp;
    <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django-1E4B33.svg?logo=django&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://flutter.dev/" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-177DC0.svg?logo=flutter&logoColor=white"/>
   </a>
 </p>
 
