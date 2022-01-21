@@ -6,7 +6,8 @@
 
 <hr/>
 
-<h4 align="center">I like to code and experiment. I am an enthusiastic and loves to solve problems. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a 10th semester student at Kalimantan Timur.
+Enthusiastic software engineer. Mostly, using Python. I'm excited to engineer services by paying attention to the best practices to build reliable and scalable services. Quite active in the Indonesian python group on Telegram by answering people question.</h4>
 
 <br>
 
