@@ -6,8 +6,7 @@
 
 <hr/>
 
-<h4 align="center">I am a 10th semester student at Kalimantan Timur.
-Enthusiastic software engineer. Mostly, using Python. I'm excited to engineer services by paying attention to the best practices to build reliable and scalable services. Quite active in the Indonesian python group on Telegram by answering people question.</h4>
+<h4 align="center">Junior Engineer at Shopee. Primarily use Linux Ubuntu as my operating system. Passionate about backend engineering mostly utilizing Python but also interested in Go</h4>
 
 <br>
 
